@@ -57,3 +57,22 @@
 <img width="1907" height="913" alt="final final" src="https://github.com/user-attachments/assets/eab40b84-d666-413f-8575-04ee24bde323" />
 </br></br>
 
+<h4>Accessing the Service to see webapp</h4>
+
+<img width="1186" height="70" alt="app run 1" src="https://github.com/user-attachments/assets/bb9caa9c-3e26-4561-b92a-9696dc2a2dc0" />
+
+</br></br>
+
+<img width="1149" height="322" alt="app run 4" src="https://github.com/user-attachments/assets/fe92ecb6-5e14-49e3-92b0-ad36e63539f7" />
+
+</br></br>
+
+<h4>Running container in the k8s cluster</h4>
+
+<img width="1912" height="968" alt="final web app" src="https://github.com/user-attachments/assets/890ffd7d-8dea-4210-b8c3-8b76a1fdee6b" />
+
+
+
+
+
+
